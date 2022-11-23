@@ -1,0 +1,66 @@
+.navbar-text {
+    color: white;
+}
+
+.card {
+    font-weight: 300;
+}
+
+.fstyle-1 {
+    font-size: 20px;
+    color: #212529  ;
+}
+
+.fstyle-2 {
+    font-size: 16px;
+    color: #707070;
+    margin-bottom: 0px;
+}
+
+.fstyle-3 {
+    font-size: 13px;
+    color: #707070;
+    margin-bottom: 4px;
+}
+
+.pricestyle-1 {
+    font-size: 16px;
+    color: #707070;
+    text-align: right;
+    padding-top: 16px;
+}
+
+.pricestyle-2 {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: right;
+    padding-top: 12px;
+}
+
+.mg-card-1 {
+    margin-top: 30px;
+}
+
+.price-card {
+    border-top: solid;
+    border-width: 1px;
+    border-color: #707070;
+}
+
+.formstyle {
+    font-weight: 500;
+    font-size: 21px;
+    color: white;
+}
+
+.footstyle {
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+    margin-top: 24px;
+    margin-bottom: 22px;
+}
+
+.form-control{
+    font-weight: 200;
+}
